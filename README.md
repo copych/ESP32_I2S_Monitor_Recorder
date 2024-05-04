@@ -4,7 +4,7 @@ Sometimes the only way to debug realtime I2S output is to get the exact signal r
 
 OLED display shows some helpful info: D-weighted frequency response, momentary signal form and used dynamic range percentage.
 
-On clicking "BOOT" key of the devboard the recording is launched. Second press stops recording and finalizes the writing of "sound.wav" in the root of the SD (microSD) card.
+On clicking "BOOT" key of the devboard the recording is launched, display shows samples count. Second press stops the recording and finalizes the writing of "sound.wav" in the root of the SD (microSD) card.
 
 
 ## Connections:
